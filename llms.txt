@@ -1,0 +1,29 @@
+# Solo Harmony Brand Assets
+
+> Pustaka publik logo Solo Harmony Furniture, Renovation/Renov, Industries, dan Office. Gunakan berkas yang tersedia; desain baru tidak dibuat dalam arsip ini.
+
+## Sumber utama
+
+- [README](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/README.md): pilihan cepat dan batas keaslian.
+- [Katalog semua logo](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/CATALOG.md): indeks teks dan tautan unduh.
+- [Manifest JSON](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/manifest.json): merek, dimensi, transparansi, sumber, dan SHA-256.
+- [Panduan ChatGPT](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/docs/panduan-chatgpt.md): cara menghubungkan dan mengambil logo.
+
+## Pilihan cepat
+
+- [office: Industries / Office transparan 1024](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/industries/logo-solo-harmony-office-industries-1024.png)
+- [holding: Industries bulat pada kanvas putih 2000](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/industries/logo-solo-harmony-industries-bulat-2000.png)
+- [furniture_profile: Furniture bulat kuning 1080](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-1080.webp)
+- [furniture_watermark: Furniture wordmark emas transparan 2172x724](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-wordmark-transparan.png)
+- [furniture_white_transparent: Furniture putih transparan, arsip 2023](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-putih-1080.png)
+- [renovation_profile: Renovation bulat hijau PNG 150](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.png)
+- [renovation_white: Renovation putih pada latar hitam 1583x803](https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/renovation/logo-solo-harmony-renovation-putih-latar-hitam.jpg)
+
+## Batas penggunaan
+
+- Jika unit belum jelas, tentukan Furniture, Renovation, atau Industries sebelum memilih logo.
+- Logo Office memakai identitas Industries.
+- Jangan menggambar ulang, mengubah warna, mendistorsi proporsi, atau menyebut favicon sebagai master vektor.
+- Renov putih adalah JPG berlatar hitam, bukan transparan.
+- Gunakan berkas asli melalui raw_url. Jika tidak dapat membuka gambar, sebutkan keterbatasannya.
+- Repo publik tidak otomatis terhubung ke semua akun ChatGPT.

@@ -1,0 +1,638 @@
+{
+  "schema_version": 1,
+  "collection": "Solo Harmony Brand Assets",
+  "verified_on": "2026-10-12",
+  "repository": "https://github.com/arizaltp-afk/solo-harmony-brand-assets",
+  "default_branch": "main",
+  "scope": "Ekspor logo yang ditemukan dalam arsip pemilik dan aset aplikasi, serta ikon aplikasi terkait. Tidak menyatakan seluruh master desain sudah ditemukan.",
+  "brands": [
+    {
+      "id": "furniture",
+      "name": "Solo Harmony Furniture",
+      "keywords": [
+        "furniture",
+        "interior",
+        "home decor",
+        "kuning"
+      ]
+    },
+    {
+      "id": "renovation",
+      "name": "Solo Harmony Renovation",
+      "keywords": [
+        "renov",
+        "renovation",
+        "renovasi",
+        "hijau"
+      ]
+    },
+    {
+      "id": "industries",
+      "name": "Solo Harmony Industries",
+      "keywords": [
+        "industries",
+        "holding",
+        "kantor",
+        "office",
+        "hitam kuning"
+      ]
+    }
+  ],
+  "selection": {
+    "office": "industries-office-1024",
+    "holding": "industries-circle-2000",
+    "furniture_profile": "furniture-circle-1080",
+    "furniture_watermark": "furniture-wordmark-transparent",
+    "furniture_white_transparent": "furniture-original-white",
+    "renovation_profile": "renovation-circle",
+    "renovation_white": "renovation-white"
+  },
+  "limitations": [
+    "Master desain editable AI/CDR/EPS/SVG resmi belum terverifikasi.",
+    "Koneksi Canva memerlukan autentikasi ulang; hanya ekspor yang sudah tersedia yang diarsipkan.",
+    "Logo Renov hijau yang ditemukan hanya 150x150.",
+    "Public repository tidak otomatis mengaktifkan koneksi GitHub di akun ChatGPT lain."
+  ],
+  "assets": [
+    {
+      "id": "furniture-original-color",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-warna-1080.png",
+      "label": "Furniture warna transparan, arsip 2023",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo furniture transparan berwarna"
+      ],
+      "background": "transparent",
+      "note": "Ekspor PNG lama dari arsip pemilik; bukan master vektor.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 1080,
+      "height": 1080,
+      "has_transparency": true,
+      "bytes": 64048,
+      "sha256": "25366038a9f2f51a7718f39458464b9a1b444eff0b057cb93d683cfc415c59c7",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-warna-1080.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-warna-1080.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo harmony .png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-original-white",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-putih-1080.png",
+      "label": "Furniture putih transparan, arsip 2023",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo furniture putih",
+        "logo furniture latar gelap"
+      ],
+      "background": "transparent",
+      "note": "Seluruh tulisan dan simbol berwarna putih; gunakan latar gelap.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 1080,
+      "height": 1080,
+      "has_transparency": true,
+      "bytes": 51113,
+      "sha256": "3738237d3b12b8fa8ade6158d29c0c51fe9f09552d340c5b85ef2e4b92a0b53d",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-putih-1080.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-putih-1080.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo harmony putih.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-circle-1080",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-bulat-kuning-1080.webp",
+      "label": "Furniture bulat kuning 1080",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo furniture bulat",
+        "profil furniture resolusi terbesar yang ditemukan"
+      ],
+      "background": "transparent",
+      "note": "Nama sumber berakhiran .jpg, tetapi isi sebenarnya WebP. Ekstensi disesuaikan tanpa mengubah byte.",
+      "format": "WEBP",
+      "mime_type": "image/webp",
+      "width": 1080,
+      "height": 1080,
+      "has_transparency": true,
+      "bytes": 31034,
+      "sha256": "8583e5eaf2592d7c7c02152039246eaf5d1e25c1ba43d9388620aa9a4603c1f0",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-1080.webp",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-1080.webp",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo harmony kuning bunder.jpg.webp",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-circle-540",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-bulat-kuning-540.jpg",
+      "label": "Furniture bulat kuning JPG 540",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo furniture bulat format JPG"
+      ],
+      "background": "white",
+      "note": "Salinan identik juga ditemukan pada aset preview milik pemilik.",
+      "format": "JPEG",
+      "mime_type": "image/jpeg",
+      "width": 540,
+      "height": 540,
+      "has_transparency": false,
+      "bytes": 27271,
+      "sha256": "7065d669b118a7bd24d4a1433e8a53fc8efdad9eb99e9b1f193b9b3af6627d38",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-540.jpg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-540.jpg",
+      "source": {
+        "type": "source-export",
+        "original_filename": "WhatsApp Image 2026-04-11 at 09.10.30.jpeg",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-circle-210",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-bulat-kuning-210.png",
+      "label": "Furniture bulat kuning PNG 210",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo furniture bulat PNG transparan kecil"
+      ],
+      "background": "transparent",
+      "note": "Resolusi kecil; jangan diperbesar untuk cetak.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 210,
+      "height": 210,
+      "has_transparency": true,
+      "bytes": 41592,
+      "sha256": "03abe3203edc77f3ea564da01c5fa3683a8e92b7b069b9edda55e8d3f1d934e6",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-210.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-bulat-kuning-210.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo_bulat.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-circle-web-210",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-bulat-web-210.jpg",
+      "label": "Furniture bulat versi website 210",
+      "kind": "deployed-asset",
+      "recommended_for": [],
+      "background": "black",
+      "note": "File sumber logo_bulat.png sebenarnya JPEG. Byte asli dipertahankan; ekstensi menjadi .jpg. Cocokkan bentuk dengan sumber resolusi besar.",
+      "format": "JPEG",
+      "mime_type": "image/jpeg",
+      "width": 210,
+      "height": 210,
+      "has_transparency": false,
+      "bytes": 11908,
+      "sha256": "92210066cbc66c5e81858a40a86e38787e58ebddc08acc8919efab0e82395835",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-bulat-web-210.jpg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-bulat-web-210.jpg",
+      "source": {
+        "type": "deployed-asset",
+        "original_filename": "logo_bulat.png",
+        "byte_preserved": true,
+        "aliases": [
+          "logo_bulat.png",
+          "logo-bulat.png"
+        ],
+        "verified_public_url": "https://soloharmonyfurniture.com/logo-bulat.png"
+      }
+    },
+    {
+      "id": "furniture-wordmark-transparent",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-wordmark-transparan.png",
+      "label": "Furniture wordmark emas transparan 2172x724",
+      "kind": "source-export",
+      "recommended_for": [
+        "watermark furniture",
+        "wordmark furniture transparan"
+      ],
+      "background": "transparent",
+      "note": "Ekspor Canva milik pemilik. Piksel sama dengan versi aplikasi; encoding file berbeda.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 2172,
+      "height": 724,
+      "has_transparency": true,
+      "bytes": 256229,
+      "sha256": "72af4c2508cea6f41e850e6e50a2902b1dee07756241cdfd396e351b87e0d96f",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-wordmark-transparan.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-wordmark-transparan.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "watermark-logo.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-wordmark-app",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-wordmark-aplikasi.png",
+      "label": "Furniture wordmark versi aplikasi",
+      "kind": "deployed-asset",
+      "recommended_for": [
+        "salinan persis watermark aplikasi"
+      ],
+      "background": "transparent",
+      "note": "Piksel sama dengan ekspor wordmark transparan. Disimpan untuk kecocokan byte dengan aplikasi.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 2172,
+      "height": 724,
+      "has_transparency": true,
+      "bytes": 251160,
+      "sha256": "bfe6b6d041b6fd7d5889eccd2081a677bbef0e5c09924347a0d9369dfa915911",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-wordmark-aplikasi.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-wordmark-aplikasi.png",
+      "source": {
+        "type": "deployed-asset",
+        "original_filename": "watermark-logo.png",
+        "byte_preserved": true,
+        "verified_public_url": "https://office.soloharmonyindustries.com/watermark-logo.png"
+      }
+    },
+    {
+      "id": "furniture-wordmark-white",
+      "brand": "furniture",
+      "path": "logos/furniture/logo-solo-harmony-furniture-wordmark-latar-putih-2000.png",
+      "label": "Furniture wordmark latar putih 2000",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo furniture sponsor",
+        "logo furniture latar putih"
+      ],
+      "background": "white",
+      "note": "Ekspor yang sudah tersedia; tidak dipotong atau digambar ulang.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 2000,
+      "height": 2000,
+      "has_transparency": false,
+      "bytes": 716356,
+      "sha256": "15f1df6ec663c183dc34190e963e0e45645e77ae9b7558cf9b42d4ba5bc7888c",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/furniture/logo-solo-harmony-furniture-wordmark-latar-putih-2000.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/furniture/logo-solo-harmony-furniture-wordmark-latar-putih-2000.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo harmony sponsor.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "renovation-circle",
+      "brand": "renovation",
+      "path": "logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.png",
+      "label": "Renovation bulat hijau PNG 150",
+      "kind": "deployed-asset",
+      "recommended_for": [
+        "logo renov",
+        "logo renovation",
+        "profil renov"
+      ],
+      "background": "transparent",
+      "note": "Resolusi hanya 150x150. File hijau resolusi besar belum ditemukan.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 150,
+      "height": 150,
+      "has_transparency": true,
+      "bytes": 32249,
+      "sha256": "142fc63970a9e7dee29b6e854305997b32fc71ed6bdc5eaf0e2e2ef682178037",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.png",
+      "source": {
+        "type": "deployed-asset",
+        "original_filename": "logo-renov.png",
+        "byte_preserved": true,
+        "aliases": [
+          "logo-renov.png"
+        ],
+        "verified_public_url": "https://soloharmonyrenov.com/logo-renov.png"
+      }
+    },
+    {
+      "id": "renovation-circle-jpg",
+      "brand": "renovation",
+      "path": "logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.jpg",
+      "label": "Renovation bulat hijau JPG 150",
+      "kind": "source-export",
+      "recommended_for": [],
+      "background": "black",
+      "note": "Arsip JPG beresolusi kecil; pilih PNG untuk profil dengan transparansi.",
+      "format": "JPEG",
+      "mime_type": "image/jpeg",
+      "width": 150,
+      "height": 150,
+      "has_transparency": false,
+      "bytes": 4970,
+      "sha256": "036a596f47be21a8dd2703eb54b4a2e8a72697697e7dd41d9c6d6f12088c675a",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.jpg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/renovation/logo-solo-harmony-renovation-bulat-hijau-150.jpg",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo renov.jpg",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "renovation-white",
+      "brand": "renovation",
+      "path": "logos/renovation/logo-solo-harmony-renovation-putih-latar-hitam.jpg",
+      "label": "Renovation putih pada latar hitam 1583x803",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo renov putih",
+        "logo renov horizontal"
+      ],
+      "background": "black",
+      "note": "File JPG memiliki latar hitam permanen; bukan logo transparan. Rekaman Drive dibuat 2023, versi sekarang diperbarui 2026.",
+      "format": "JPEG",
+      "mime_type": "image/jpeg",
+      "width": 1583,
+      "height": 803,
+      "has_transparency": false,
+      "bytes": 135272,
+      "sha256": "f1e2d58f7b68261eba683d6683a127a9057e91118d17756c7f223aefa748e9ff",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/renovation/logo-solo-harmony-renovation-putih-latar-hitam.jpg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/renovation/logo-solo-harmony-renovation-putih-latar-hitam.jpg",
+      "source": {
+        "type": "source-export",
+        "original_filename": "logo harmony renov putih.jpg",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "industries-circle-2000",
+      "brand": "industries",
+      "path": "logos/industries/logo-solo-harmony-industries-bulat-2000.png",
+      "label": "Industries bulat pada kanvas putih 2000",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo holding",
+        "logo industries resolusi besar"
+      ],
+      "background": "white",
+      "note": "Ekspor Canva pemilik, kanvas luar putih permanen.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 2000,
+      "height": 2000,
+      "has_transparency": false,
+      "bytes": 221543,
+      "sha256": "137ac10bf877209f7f425304dde64f9b2443546777aee4923c5348ae849a0efb",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/industries/logo-solo-harmony-industries-bulat-2000.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/industries/logo-solo-harmony-industries-bulat-2000.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "harmony industries.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "industries-square-1536",
+      "brand": "industries",
+      "path": "logos/industries/logo-solo-harmony-industries-kotak-hitam-1536.png",
+      "label": "Industries kotak hitam 1536",
+      "kind": "source-export",
+      "recommended_for": [
+        "logo industries kotak",
+        "profil industries hitam"
+      ],
+      "background": "black",
+      "note": "Ekspor Canva yang sudah tersedia.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 1536,
+      "height": 1536,
+      "has_transparency": false,
+      "bytes": 388598,
+      "sha256": "ab5144e93c6b1792886486912696e71322cfc368ddda54c8e3325ad8036f9a64",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/industries/logo-solo-harmony-industries-kotak-hitam-1536.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/industries/logo-solo-harmony-industries-kotak-hitam-1536.png",
+      "source": {
+        "type": "source-export",
+        "original_filename": "Solo Harmony Industries.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "industries-office-1024",
+      "brand": "industries",
+      "path": "logos/industries/logo-solo-harmony-office-industries-1024.png",
+      "label": "Industries / Office transparan 1024",
+      "kind": "deployed-asset",
+      "recommended_for": [
+        "logo kantor",
+        "logo office",
+        "logo industries transparan"
+      ],
+      "background": "transparent",
+      "note": "Nama file aplikasi menyebut Office, tetapi identitas yang tercetak adalah Solo Harmony Industries.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 1024,
+      "height": 1024,
+      "has_transparency": true,
+      "bytes": 89423,
+      "sha256": "f246352b9b90d7ac545f7cdb5a965d1f3e19c9de1b51efb3ac4e70ee9ae927d5",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/industries/logo-solo-harmony-office-industries-1024.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/industries/logo-solo-harmony-office-industries-1024.png",
+      "source": {
+        "type": "deployed-asset",
+        "original_filename": "logo-harmony-office.png",
+        "byte_preserved": true,
+        "aliases": [
+          "logo-harmony-office.png",
+          "favicon.png"
+        ],
+        "verified_public_url": "https://office.soloharmonyindustries.com/logo-harmony-office.png"
+      }
+    },
+    {
+      "id": "industries-small-150",
+      "brand": "industries",
+      "path": "logos/industries/logo-solo-harmony-industries-arsip-150.jpg",
+      "label": "Industries arsip JPG 150",
+      "kind": "source-export",
+      "recommended_for": [],
+      "background": "black",
+      "note": "Arsip kecil; gunakan ekspor resolusi besar untuk materi baru.",
+      "format": "JPEG",
+      "mime_type": "image/jpeg",
+      "width": 150,
+      "height": 150,
+      "has_transparency": false,
+      "bytes": 2873,
+      "sha256": "403d34051506a805a507265a0380a2890170218f5ecca649658fce9fd6942d38",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/logos/industries/logo-solo-harmony-industries-arsip-150.jpg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/logos/industries/logo-solo-harmony-industries-arsip-150.jpg",
+      "source": {
+        "type": "source-export",
+        "original_filename": "374716698_637601101692308_71383692208899096_n.jpg",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "office-icon-192",
+      "brand": "industries",
+      "path": "application-icons/office/icon-192.png",
+      "label": "Ikon Office 192",
+      "kind": "application-icon",
+      "recommended_for": [],
+      "background": "transparent",
+      "note": "Turunan ikon aplikasi; gunakan katalog logo untuk dokumen, profil, atau promosi.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 192,
+      "height": 192,
+      "has_transparency": true,
+      "bytes": 11802,
+      "sha256": "e674add4c8f9a54abc4288cf767631ebf036c0e08009fca60876474500b8e899",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/application-icons/office/icon-192.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/application-icons/office/icon-192.png",
+      "source": {
+        "type": "application-icon",
+        "original_filename": "icon-192.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "office-icon-512",
+      "brand": "industries",
+      "path": "application-icons/office/icon-512.png",
+      "label": "Ikon Office 512",
+      "kind": "application-icon",
+      "recommended_for": [],
+      "background": "transparent",
+      "note": "Turunan ikon aplikasi; gunakan katalog logo untuk dokumen, profil, atau promosi.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 512,
+      "height": 512,
+      "has_transparency": true,
+      "bytes": 38739,
+      "sha256": "fdf9b9e089b555b1b56781b53ccde389736a06c3c07b2e5313377ff8ebafd5c5",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/application-icons/office/icon-512.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/application-icons/office/icon-512.png",
+      "source": {
+        "type": "application-icon",
+        "original_filename": "icon-512.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "office-icon-512-maskable",
+      "brand": "industries",
+      "path": "application-icons/office/icon-512-maskable.png",
+      "label": "Ikon Office maskable 512",
+      "kind": "application-icon",
+      "recommended_for": [],
+      "background": "black",
+      "note": "Turunan ikon aplikasi; gunakan katalog logo untuk dokumen, profil, atau promosi.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 512,
+      "height": 512,
+      "has_transparency": false,
+      "bytes": 25562,
+      "sha256": "4e97cf808a6c1c736399669960192bc874cd85528ea1c659308af97b0e408cd6",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/application-icons/office/icon-512-maskable.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/application-icons/office/icon-512-maskable.png",
+      "source": {
+        "type": "application-icon",
+        "original_filename": "icon-512-maskable.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "office-apple-touch-icon",
+      "brand": "industries",
+      "path": "application-icons/office/apple-touch-icon.png",
+      "label": "Ikon Office Apple 180",
+      "kind": "application-icon",
+      "recommended_for": [],
+      "background": "transparent",
+      "note": "Turunan ikon aplikasi; gunakan katalog logo untuk dokumen, profil, atau promosi.",
+      "format": "PNG",
+      "mime_type": "image/png",
+      "width": 180,
+      "height": 180,
+      "has_transparency": true,
+      "bytes": 10918,
+      "sha256": "ca9b8804b268a4d26c1effa961fc248f62810452572d99dd7f446ec4037a91b8",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/application-icons/office/apple-touch-icon.png",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/application-icons/office/apple-touch-icon.png",
+      "source": {
+        "type": "application-icon",
+        "original_filename": "apple-touch-icon.png",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "furniture-favicon",
+      "brand": "furniture",
+      "path": "application-icons/furniture/favicon.svg",
+      "label": "Furniture favicon website",
+      "kind": "interface-symbol",
+      "recommended_for": [],
+      "background": "yellow",
+      "note": "Simbol rumah sederhana untuk tab browser; bukan master vektor logo merek.",
+      "format": "SVG",
+      "mime_type": "image/svg+xml",
+      "width": 32,
+      "height": 32,
+      "has_transparency": true,
+      "bytes": 417,
+      "sha256": "a834ee474599ad75cbe1fdcb0a4c5b7d5a56669228af2f5ebf0a5495cd1de123",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/application-icons/furniture/favicon.svg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/application-icons/furniture/favicon.svg",
+      "source": {
+        "type": "interface-symbol",
+        "original_filename": "favicon.svg",
+        "byte_preserved": true
+      }
+    },
+    {
+      "id": "renovation-favicon",
+      "brand": "renovation",
+      "path": "application-icons/renovation/favicon.svg",
+      "label": "Renovation favicon website",
+      "kind": "interface-symbol",
+      "recommended_for": [],
+      "background": "green",
+      "note": "Simbol rumah sederhana untuk tab browser; bukan master vektor logo merek.",
+      "format": "SVG",
+      "mime_type": "image/svg+xml",
+      "width": 32,
+      "height": 32,
+      "has_transparency": true,
+      "bytes": 417,
+      "sha256": "841fb68dcb682728f0576b958ea7f0d1723216340cf24ce9217f0e11477c3876",
+      "raw_url": "https://raw.githubusercontent.com/arizaltp-afk/solo-harmony-brand-assets/main/application-icons/renovation/favicon.svg",
+      "view_url": "https://github.com/arizaltp-afk/solo-harmony-brand-assets/blob/main/application-icons/renovation/favicon.svg",
+      "source": {
+        "type": "interface-symbol",
+        "original_filename": "favicon.svg",
+        "byte_preserved": true
+      }
+    }
+  ]
+}
